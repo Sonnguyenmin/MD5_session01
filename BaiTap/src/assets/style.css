@@ -1,0 +1,28 @@
+.flex {
+    display: flex;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    color: #FFF;
+}
+
+.box-green {
+    background-color: #55AD9B;
+}
+
+.box-blue {
+    background-color: #5085db;
+}
+
+.box-red {
+    background-color: #f6235c;
+}
